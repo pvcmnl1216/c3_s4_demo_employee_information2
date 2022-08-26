@@ -5,5 +5,6 @@
  */
 package com.niit.jdp.employee;
 
-public class Manager {
+public class Manager extends Employee {
+
 }
