@@ -10,10 +10,10 @@ import java.time.LocalDate;
 public class ManagerImpl {
     public static void main(String[] args) {
         Manager manager = new Manager(
-                "Divyansh Bhardwaj",
-                26,
+                "Meshach",
+                23,
                 LocalDate.of(2022, 8, 26),
-                "Pune",
+                "Tamil Nadu",
                 100000,
                 5,
                 5
